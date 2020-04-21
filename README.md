@@ -7,7 +7,7 @@
 
 ### 1° Clique no botão **[Deploy to heroku]** abaixo para instalar.
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yuka-tuka/lavalink-heroku)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IamTherealSami/lavalink-heroku)
 
 ###  2° Após clicar, aparecerá uma janela semelhante
 
